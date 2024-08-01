@@ -31,7 +31,7 @@
     "url-parse": "^1.5.10"
   },
   "devDependencies": {
-    "@types/async": "^3.2.18",
+    "@types/async": "^3.2.24",
     "@types/node": "^18.19.39",
     "@types/react": "18.3.3",
     "@types/react-dom": "18.3.0",
